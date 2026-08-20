@@ -1,0 +1,5 @@
+base_url = "https://riso.re"
+title = "riso"
+description = "One palette, your whole desktop."
+compile_sass = false
+build_search_index = false
